@@ -1,4 +1,4 @@
-# TutorQ
+# SLC app
 North Seattle College Student Learning Center Tutor Session Management System
 
 ## Introduction
@@ -9,7 +9,11 @@ SLC app has three interefaces
 - Students
 - Tutors
 
-### Admin
+## Admin
+
+## Students 
+
+## Tutors
 
 ## Problems SLC app solved
 North Seattle College tutoring center had problems with clickers they used to request tutor sessions, and data management system. 
