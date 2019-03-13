@@ -1,8 +1,8 @@
-# SLC app
+# SLC app - tutor request and session management system -
 North Seattle College Student Learning Center Tutor Session Management System
 
 ## Introduction
-SLC - tutor request and session management system - supports and improve experiences of administrators, tutors, and students in the tutoring center.
+SLC app supports and improve experiences of administrators, tutors, and students in the tutoring center.
 
 SLC app has three interefaces 
 - Admin
