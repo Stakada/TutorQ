@@ -13,6 +13,7 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 - Tutors
 
 ## Admins
+### Admin Index Page
 
 
 ## Students 
