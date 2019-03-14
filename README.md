@@ -27,11 +27,18 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 
 #### People page
 
-#### Settings
+#### Manage
 
 ## Students 
 
+#### Home page
+- In home page, students can send request and check tutor session list. 
+- 
+
 ## Tutors
+
+#### Home page
+- Home page retrieves tutor session from database and show in the tutor session card. Tutors can start, pause, and end the sessions. 
 
 
  
