@@ -13,8 +13,12 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 - Tutors
 
 ## Admins
-### Admin Index Page
-
+Home Page
+- The four cards show : new students for this week, new students of this quarter, total time (hr) of this quarter, and total accesses of this quarter. 
+- The general statistics visualize the usage of center for the last 7 days. Admins can select center to see different usage. 
+- Admins can add notification which will be shown in student page. 
+- The four cards infomation is based on a quarter's start and end time. And the quarter can be edited in the bottom tab. 
+- In the "Loggeg in tutor" card, admins can look up who's loggeg in and log out tutors from timekeeper.
 
 ## Students 
 
