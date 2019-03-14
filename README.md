@@ -19,6 +19,9 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 - Admins can add notification which will be shown in student page. 
 - The four cards infomation is based on a quarter's start and end time. And the quarter can be edited in the bottom tab. 
 - In the "Loggeg in tutor" card, admins can look up who's loggeg in and log out tutors from timekeeper.
+#### Report page
+#### People page
+#### Settings
 
 ## Students 
 
