@@ -8,11 +8,11 @@ North Seattle College tutoring center had problems with clickers. Students could
 TutorQ supports and improve experiences of administrators, tutors, and students in the tutoring center. It allowes students sending tutor requests without problems. In addition, administrators can analyze and manage data in online. No papers!  
 
 ### Three interefaces 
-- Admins
-- Students
-- Tutors
+- Admin
+- Student
+- Tutor
 
-## Admins
+## Admin
 
 #### Home Page
 - The four cards show : new students for this week, new students of this quarter, total time (hr) of this quarter, and total accesses of this quarter. 
@@ -29,13 +29,13 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 
 #### Manage
 
-## Students 
+## Student 
 
 #### Home page
 - In home page, students can send request and check tutor session list. 
 - 
 
-## Tutors
+## Tutor
 
 #### Home page
 - Home page retrieves tutor session from database and show in the tutor session card. Tutors can start, pause, and end the sessions. 
