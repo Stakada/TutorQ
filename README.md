@@ -23,7 +23,9 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 
 
 #### Report page
-- There are three different types of reports: students, tutors, and resources. Also, administrators can generate report of detial and accumulated of each type. 
+- There are three different types of reports: students, tutors, and resources. Also, administrators can generate report of detial and accumulated of each type.
+- #### Resource page
+  - The graph shows hourly data of selected date. 
 
 #### People page
 - There are studens, tutors, and coordinators list.
