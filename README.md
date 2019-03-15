@@ -51,16 +51,29 @@ Ex. Student's accumlated and indivisual report
   
   
 #### People page
-- There are studens, tutors, and coordinators list.
+- Administrators can look up lists of students, tutors, and administrators. They can add a new admin. 
 
 #### Manage
-- Coordinators and director can add a center and subject. When they add a center, they can choose template among 4 choices. 
+<img width="1440" alt="manage" src="https://user-images.githubusercontent.com/34498187/54463596-e3f50a00-4730-11e9-9d94-2a7fec908e0c.png">
+<img width="1440" alt="manage2" src="https://user-images.githubusercontent.com/34498187/54463599-e48da080-4730-11e9-8203-ee7aa109f4c9.png">
+
+- It shows a list of centers and subjects. Administrators can add centers and subjects. 
+- When they add a center, they can choose which template this center corresponds to. 
+- When they add a center, they can choose template among 4 choices.
+<img width="1440" alt="addcenter" src="https://user-images.githubusercontent.com/34498187/54463602-e48da080-4730-11e9-9362-7cb00d4558c1.png">
+<img width="1440" alt="addsubject" src="https://user-images.githubusercontent.com/34498187/54463603-e48da080-4730-11e9-9d36-40a98c21607d.png">
+ 
+
+
 - #### templates 
   - 0 : For TimeKeeper
   - 1 : Place, Number, Subject
   - 2 : Tutor, Subject
   - 3 : Student's name, Place, Number, Tutor, Subject 
   - 4 : Subject
+  
+  
+ - When they add a subject, they can choose which center this subject belongs to. 
   
 ## Student 
 #### Home page
