@@ -22,19 +22,29 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 <img width="1439" alt="Screen Shot 2019-03-13 at 4 01 39 PM" src="https://user-images.githubusercontent.com/34498187/54461193-2286c680-4729-11e9-96d2-31fe6e390856.png"> 
 <img width="1232" alt="Screen Shot 2019-03-13 at 4 01 44 PM" src="https://user-images.githubusercontent.com/34498187/54460590-30d3e300-4727-11e9-9144-8a3f3cd06480.png">
 
-- The general statistics visualize the usage of center for the last 7 days. Coordinators can select a center. 
+- The general statistics visualize the usage of center for the last 7 days. Administrators can select a center. 
 
-- Coordinators can add notification which will be shown in student page in notification card. 
+- Administrators can add notification in "Notification" card, and it will be shown in the student page. 
 
-- The four cards infomation is based on a quarter's information which can be edited with Update Quarter card. 
+- The four cards infomation is based on a quarter's information which can be edited with "Update Quarter" card. 
 
-- In the "Loggeg in tutor" card, coordinators can look up who's loggeg in and log out tutors from timekeeper.
+- In the "Loggeg in tutor" card, administrators can look up who's loggeg in and log out tutors from timekeeper.
 
 #### Report page
-- There are three different types of reports: students, tutors, and resources. Also, administrators can generate report of detial and accumulated of each type.
-- #### Resource page
-  - The graph shows hourly data of selected date. 
+Administrators can generate students, tutors, and resources reports between selected dates. With students report, they can look up  and they can be accumulated or detailed. 
 
+#### Ex. Student report accumlated and indivisual
+<img width="1179" alt="Screen Shot 2019-03-15 at 2 09 08 PM" src="https://user-images.githubusercontent.com/34498187/54462150-f751a680-472b-11e9-9048-4bae6a0aad02.png">
+<img width="1232" alt="stu-detail" src="https://user-images.githubusercontent.com/34498187/54461965-5e229000-472b-11e9-865e-997b85d5b038.png">
+
+
+- #### Resource page
+  <img width="1440" alt="resource" src="https://user-images.githubusercontent.com/34498187/54461970-6084ea00-472b-11e9-97bf- c086e8b604e5.png">
+
+  - The graph shows hourly usage of selected date. 
+  - Defualt is today's usage.
+  
+  
 #### People page
 - There are studens, tutors, and coordinators list.
 
