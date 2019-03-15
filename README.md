@@ -34,7 +34,8 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 Administrators can generate students, tutors, and resources reports between selected dates. With students report, they can look up  and they can be accumulated or detailed. 
 
 #### Ex. Student report accumlated and indivisual
-<img width="1179" alt="Screen Shot 2019-03-15 at 2 09 08 PM" src="https://user-images.githubusercontent.com/34498187/54462150-f751a680-472b-11e9-9048-4bae6a0aad02.png">
+<img width="1112" alt="Screen Shot 2019-03-15 at 2 11 24 PM" src="https://user-images.githubusercontent.com/34498187/54462252-4ef01200-472c-11e9-891e-f59d16b64bcf.png">
+
 <img width="1232" alt="stu-detail" src="https://user-images.githubusercontent.com/34498187/54461965-5e229000-472b-11e9-865e-997b85d5b038.png">
 
 
