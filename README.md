@@ -1,11 +1,11 @@
-# TutorQ
+# SLC app
 North Seattle College Student Learning Center Tutor Session Management System
 
-## Problems in the Student Learning Center
-North Seattle College tutoring center had problems with clickers. Students could not send a tutor request. Also, administrators of writing center collected data with papers, and they have to go through each page to analyze usage.
-
 ## Introduction
-TutorQ supports and improve experiences of administrators, tutors, and students in the tutoring center. It allowes students sending tutor requests without problems. In addition, administrators can analyze and manage data in online. No papers!  
+In North Seattle College Student Learning Center, clickers, which used to be a tool for students to send request, were not working properly, and session data was not saved in a database. Therefore, they could not collect accurate usages and analyze them efficiently. 
+
+SLC app supports and improve experiences of administrators, tutors, and students in the tutoring center. It allowes students sending tutor requests without problems. In addition, administrators can analyze and manage data in online. No papers!  
+
 
 ### Three interefaces 
 - Admin
