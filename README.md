@@ -33,7 +33,7 @@ In the "Loggeg in tutor" card, administrators can look up who's loggeg in and lo
 
 ### Report page
 
-Administrators can analyze usage and generate students, tutors, and resources reports between selected dates. 
+Administrators can analyze data and generate students, tutors, and resources reports between selected dates. 
 
 Ex. Student's accumlated and indivisual report
 <img width="1112" alt="Screen Shot 2019-03-15 at 2 11 24 PM" src="https://user-images.githubusercontent.com/34498187/54462252-4ef01200-472c-11e9-891e-f59d16b64bcf.png">
@@ -70,8 +70,9 @@ When they add a center, they can choose template among 4 choices.
 ### Home page
 
 The form requires students to choose which center they're in, and renders input doms based on center's template. 
-For example, Math&Science center's template is number 1, so it renders place, nubmer, and subject inputs. 
-After they choose a center, they can send request. 
+
+For example, Math&Science center's template is number 1, so it renders place, nubmer, and subject inputs. After they choose a center, they can send request. 
+
 In the tutor session card, studens can see tutor sessions but cannot edit them. Tutor sessions will be shown after students choose a center. 
 
 Tablet / Computers
@@ -87,8 +88,10 @@ SmartPhone
 
 ## Tutor
 ### Home page
-Home page retrieves tutor session from database and show in the tutor session card. 
+Home page retrieves tutor session from database and show in the tutor session card.
+
 The UI of tutor sessions differ based on selected center's template. 
+
 Tutors can modify (start, pause, and end) session in the tutor session page. 
 
 Tablet / Computers
