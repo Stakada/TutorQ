@@ -64,11 +64,21 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
   
 ## Student 
 
+<img width="399" alt="student" src="https://user-images.githubusercontent.com/34498187/54462825-426cb900-472e-11e9-8dad-bd80655b2299.png">
+<img width="399" alt="student2" src="https://user-images.githubusercontent.com/34498187/54462826-43054f80-472e-11e9-9fe0-e3e165a91762.png">
+<img width="395" alt="student3" src="https://user-images.githubusercontent.com/34498187/54462827-43054f80-472e-11e9-9d36-a9dcf665d138.png">
+
 #### Home page
-- The form requires studens to choose which center they're in, and renders inputs based on center's template. For example, Math&Science center's template is number 1, so it renders place, nubmer, and subject inputs. 
-- In the tutor session card, studens can look up tutor requests but not editable. 
+- The form requires students to choose which center they're in, and renders input doms based on center's template. For example, Math&Science center's template is number 1, so it renders place, nubmer, and subject inputs. After they choose a center, they can send request. 
+- In the tutor session card, studens can look up tutor requests but not editable. Tutor sessions will be shown after students choose a center. 
 
 ## Tutor
+Tablet / Computers
+<img width="1440" alt="tutor" src="https://user-images.githubusercontent.com/34498187/54462702-e9048a00-472d-11e9-8ce8-458bce5c4c77.png">
+
+SmartPhone
+<img width="400" alt="tutorSm" src="https://user-images.githubusercontent.com/34498187/54462698-e5710300-472d-11e9-8d97-5b36c5ee8dc2.png">
+
 
 #### Home page
 - Home page retrieves tutor session from database and show in the tutor session card. 
