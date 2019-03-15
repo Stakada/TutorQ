@@ -32,8 +32,13 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 
 #### Manage
 - Coordinators and director can add a center and subject. When they add a center, they can choose template among 4 choices. 
-
-
+- #### templates 
+  - 0 : For TimeKeeper
+  - 1 : Place, Number, Subject
+  - 2 : Tutor, Subject
+  - 3 : Student's name, Place, Number, Tutor, Subject 
+  - 4 : Subject
+  
 ## Student 
 
 #### Home page
