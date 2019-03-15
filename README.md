@@ -14,7 +14,7 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 
 ## Admin
 
-#### Home Page
+### Home Page
 
 - The four cards show : new students for this week, new students of this quarter, total time (hr) of this quarter, and total accesses of this quarter.
 
