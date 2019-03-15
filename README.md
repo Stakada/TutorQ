@@ -18,7 +18,7 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 
 The four cards show : new students for this week, new students of this quarter, total time (hr) of this quarter, and total accesses of this quarter.
 
-The general statistics visualize the usage of center for the last 7 days. 
+The general statistics visualize the usage of center for the last 7 days, and it can be looked up by a center. The default data is all center. 
 
 Administrators can select a center. They add notification in "Notification" card, and it will be shown in the student page. 
 
@@ -26,7 +26,6 @@ The four cards infomation is based on a quarter's information which can be edite
 
 In the "Loggeg in tutor" card, administrators can look up who's loggeg in and log out tutors from timekeeper.
 
-The general statistics visualize the usage of center for the last 7 days, and it can be looked up by a center. The default data is all center. 
 
 <img width="1440" alt="index" src="https://user-images.githubusercontent.com/34498187/54460533-0c780680-4727-11e9-9d9e-9000cfa94e4d.png">
 <img width="1439" alt="Screen Shot 2019-03-13 at 4 01 39 PM" src="https://user-images.githubusercontent.com/34498187/54461193-2286c680-4729-11e9-96d2-31fe6e390856.png"> 
@@ -34,7 +33,7 @@ The general statistics visualize the usage of center for the last 7 days, and it
 
 ### Report page
 
-Administrators can generate students, tutors, and resources reports between selected dates. With students report, they can look up  and they can be accumulated or detailed.
+Administrators can analyze usage and generate students, tutors, and resources reports between selected dates. 
 
 Ex. Student's accumlated and indivisual report
 <img width="1112" alt="Screen Shot 2019-03-15 at 2 11 24 PM" src="https://user-images.githubusercontent.com/34498187/54462252-4ef01200-472c-11e9-891e-f59d16b64bcf.png">
@@ -42,7 +41,7 @@ Ex. Student's accumlated and indivisual report
 <img width="1232" alt="stu-detail" src="https://user-images.githubusercontent.com/34498187/54461965-5e229000-472b-11e9-865e-997b85d5b038.png"> 
 
 - #### Resource page
-  The graph shows hourly usage of selected date. Defualt data is today's usage. Coordinators can also change center and subject 
+  The graph shows hourly usage of selected date. Defualt data is today's usage. Administrators can also change center and subject 
   
   <img width="1440" alt="resource" src="https://user-images.githubusercontent.com/34498187/54462285-6cbd7700-472c-11e9-94b9-d0d8e150fa5d.png">
   
@@ -50,11 +49,13 @@ Ex. Student's accumlated and indivisual report
   
   
 ### People page
-Administrators can look up lists of students, tutors, and administrators. They can add a new admin. 
+There are lists of students, tutors, and administrators. Administrators can add a new admin. 
 
 ### Manage Page
 Shows a list of centers and subjects. Administrators can add centers and subjects. 
+
 When they add a center, they can choose which template this center corresponds to. 
+
 When they add a center, they can choose template among 4 choices.
 
 <img width="1440" alt="manage" src="https://user-images.githubusercontent.com/34498187/54463596-e3f50a00-4730-11e9-9d94-2a7fec908e0c.png">
@@ -64,13 +65,6 @@ When they add a center, they can choose template among 4 choices.
 <img width="1440" alt="addcenter" src="https://user-images.githubusercontent.com/34498187/54463602-e48da080-4730-11e9-9362-7cb00d4558c1.png">
 
 <img width="1440" alt="addsubject" src="https://user-images.githubusercontent.com/34498187/54463603-e48da080-4730-11e9-9d36-40a98c21607d.png"> 
-
-#### templates 
-  - 0 : For TimeKeeper
-  - 1 : Place, Number, Subject
-  - 2 : Tutor, Subject
-  - 3 : Student's name, Place, Number, Tutor, Subject 
-  - 4 : Subject
    
 ## Student 
 ### Home page
@@ -78,7 +72,7 @@ When they add a center, they can choose template among 4 choices.
 The form requires students to choose which center they're in, and renders input doms based on center's template. 
 For example, Math&Science center's template is number 1, so it renders place, nubmer, and subject inputs. 
 After they choose a center, they can send request. 
-In the tutor session card, studens can look up tutor requests but not editable. Tutor sessions will be shown after students choose a center. 
+In the tutor session card, studens can see tutor sessions but cannot edit them. Tutor sessions will be shown after students choose a center. 
 
 Tablet / Computers
 
