@@ -31,16 +31,17 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 - In the "Loggeg in tutor" card, administrators can look up who's loggeg in and log out tutors from timekeeper.
 
 #### Report page
-Administrators can generate students, tutors, and resources reports between selected dates. With students report, they can look up  and they can be accumulated or detailed. 
 
-#### Ex. Student report accumlated and indivisual
+#### Ex. Student's accumlated and indivisual report
 <img width="1112" alt="Screen Shot 2019-03-15 at 2 11 24 PM" src="https://user-images.githubusercontent.com/34498187/54462252-4ef01200-472c-11e9-891e-f59d16b64bcf.png">
 
 <img width="1232" alt="stu-detail" src="https://user-images.githubusercontent.com/34498187/54461965-5e229000-472b-11e9-865e-997b85d5b038.png">
 
+- Administrators can generate students, tutors, and resources reports between selected dates. With students report, they can look up  and they can be accumulated or detailed. 
 
 - #### Resource page
-  <img width="1440" alt="resource" src="https://user-images.githubusercontent.com/34498187/54461970-6084ea00-472b-11e9-97bf- c086e8b604e5.png">
+  
+  <img width="1440" alt="resource" src="https://user-images.githubusercontent.com/34498187/54462285-6cbd7700-472c-11e9-94b9-d0d8e150fa5d.png">
 
   - The graph shows hourly usage of selected date. 
   - Defualt is today's usage.
