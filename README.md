@@ -2,7 +2,7 @@
 North Seattle College Student Learning Center Tutor Session Management System
 
 ## Introduction
-In North Seattle College Student Learning Center, clickers, which used to be a tool for students to send request, were not working properly, and session data was not saved in a database. Therefore, they could not collect accurate usages and analyze them efficiently. 
+In North Seattle College Student Learning Center, clickers, which used to be a tool for students to send request, were not working properly, and session data was not saved in a database. Administrators used paper to analyze data and flow of the centers. Therefore,they could not collect accurate usages and analyze them efficiently. 
 
 SLC app supports and improve experiences of administrators, tutors, and students in the tutoring center. It allowes students sending tutor requests without problems. In addition, administrators can analyze and manage data in online. No papers!  
 
