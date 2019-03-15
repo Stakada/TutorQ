@@ -16,7 +16,7 @@ SLC app supports and improve experiences of administrators, tutors, and students
 - Bootstrap
 - chart.js
 
-### Three interefaces 
+## Three interefaces 
 - Admin
 - Student
 - Tutor
