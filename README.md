@@ -17,11 +17,10 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 #### Home Page
 
 <img width="1440" alt="index" src="https://user-images.githubusercontent.com/34498187/54460533-0c780680-4727-11e9-9d9e-9000cfa94e4d.png">
-<img width="1439" alt="Screen Shot 2019-03-13 at 4 01 39 PM" src="https://user-images.githubusercontent.com/34498187/54460966-59101180-4728-11e9-984e-95cac5bf2675.png">
+<img width="1439" alt="Screen Shot 2019-03-13 at 4 01 39 PM" src="https://user-images.githubusercontent.com/34498187/54461193-2286c680-4729-11e9-96d2-31fe6e390856.png">
 
 
 - The four cards show : new students for this week, new students of this quarter, total time (hr) of this quarter, and total accesses of this quarter. 
-
 
 
 <img width="1232" alt="Screen Shot 2019-03-13 at 4 01 44 PM" src="https://user-images.githubusercontent.com/34498187/54460590-30d3e300-4727-11e9-9144-8a3f3cd06480.png">
