@@ -26,19 +26,31 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 - There are three different types of reports: students, tutors, and resources. Also, administrators can generate report of detial and accumulated of each type. 
 
 #### People page
+- There are studens, tutors, and coordinators list.
 
 #### Manage
+- Coordinators and director can add a center and subject. When they add a center, they can choose template among 4 choices. 
+
 
 ## Student 
 
 #### Home page
-- In home page, students can send request and check tutor session list. 
-- 
+- The form requires studens to choose which center they're in, and renders inputs based on center's template. For example, Math&Science center's template is number 1, so it renders place, nubmer, and subject inputs. 
+- In the tutor session card, studens can look up tutor requests but not editable. 
 
 ## Tutor
 
 #### Home page
-- Home page retrieves tutor session from database and show in the tutor session card. Tutors can start, pause, and end the sessions. 
+- Home page retrieves tutor session from database and show in the tutor session card. 
+- The UI of tutor sessions differ based on selected center's template. 
+- Tutors can modify (start, pause, and end) session in the tutor session page. 
 
-
- 
+## Technologies used
+- PHP
+- JavaScript
+- jQuery
+- MySQL
+- HTML
+- CSS
+- Bootstrap
+- chart.js
