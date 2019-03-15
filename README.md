@@ -45,6 +45,9 @@ TutorQ supports and improve experiences of administrators, tutors, and students 
 
   - The graph shows hourly usage of selected date. 
   - Defualt is today's usage.
+  - Coordinators can also change center and subject 
+  
+  <img width="1235" alt="Screen Shot 2019-03-15 at 2 14 36 PM" src="https://user-images.githubusercontent.com/34498187/54462367-bad27a80-472c-11e9-84ca-9e925f59e4c9.png">
   
   
 #### People page
