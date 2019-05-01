@@ -36,9 +36,9 @@ The four cards infomation is based on a quarter's information which can be edite
 In the "Loggeg in tutor" card, administrators can look up who's loggeg in and log out tutors from timekeeper.
 
 
-<img width="1440" alt="index" src="https://user-images.githubusercontent.com/34498187/54460533-0c780680-4727-11e9-9d9e-9000cfa94e4d.png">
-<img width="1439" alt="Screen Shot 2019-03-13 at 4 01 39 PM" src="https://user-images.githubusercontent.com/34498187/54461193-2286c680-4729-11e9-96d2-31fe6e390856.png"> 
-<img width="1232" alt="Screen Shot 2019-03-13 at 4 01 44 PM" src="https://user-images.githubusercontent.com/34498187/54460590-30d3e300-4727-11e9-9144-8a3f3cd06480.png">
+<img width="1440" alt="admin-index" src="https://user-images.githubusercontent.com/34498187/57001822-bc86bf00-6b6f-11e9-9d40-21b326667e6b.png">
+<img width="1440" alt="admin-index2" src="https://user-images.githubusercontent.com/34498187/57001826-be508280-6b6f-11e9-873d-92a0138db258.png">
+<img width="1433" alt="admin-chart" src="https://user-images.githubusercontent.com/34498187/57001828-bf81af80-6b6f-11e9-8390-f64f18e4444d.png">
 
 ### Report page
 
