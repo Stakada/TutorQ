@@ -76,7 +76,7 @@ When they add a center, they can choose template among 4 choices.
 <img width="1440" alt="addsubject" src="https://user-images.githubusercontent.com/34498187/54463603-e48da080-4730-11e9-9d36-40a98c21607d.png"> 
    
 ## Student 
-### Home page
+### Home page 
 
 The form requires students to choose which center they're in, and renders input doms based on center's template. 
 
